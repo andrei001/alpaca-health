@@ -38,3 +38,5 @@ Improvements for future iterations:
 - Have option for bulleted entry in the text field
 
 There's much more I would do in the realm of code quality, however I figured this was a good MVP.
+
+Also, we could add support for multiple users so that multiple clinicians could use the product simultaneously
